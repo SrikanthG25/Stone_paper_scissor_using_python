@@ -1,6 +1,7 @@
 import random
 game=['r','p','s']
-chance=10
+N=int(input("Enter the number of chance : "))
+chance=N
 No_of_chance=0
 human_point=0
 computer_point=0
